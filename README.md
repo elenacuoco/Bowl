@@ -1,5 +1,5 @@
 # Bowl
----Bowl kaggle competition (More info on kaggle website http://www.kaggle.com/c/datasciencebowl)
+Bowl kaggle competition (More info on kaggle website http://www.kaggle.com/c/datasciencebowl)
 Predict ocean health, one plankton at a time 
 
 ##Software:
