@@ -8,8 +8,11 @@ http://danielnouri.org/notes/
 
 There are 3 files:
 ###Prepare_features.py:
-useful funtion for image preprocessing and resizing putting the results in a np.array
+Useful funtions for image preprocessing. The results of preprocessing and resizing are saved on disk as np.array with labels from 0 to 120. The encoded labels printed can be used for submission.
 ###Training-NET.py 
-based on Nouri setup, train the net and save the model on disk 
+Build a Neural Net with different layers, based on Nouri setup, train the net and save the model on disk 
 ###Prediction-NET.py 
-load the saved model and perform prediction, writing the file, useful for submission.
+Load the saved model and perform prediction, writing them in a file  for submission.
+
+
+You can use a json file to set the PATH and other parameters once for all.
