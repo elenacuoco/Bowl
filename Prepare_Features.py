@@ -340,7 +340,7 @@ def image_features_haralick(img, imageSize):
 ###################################End of useful functions#########################################
 #
 ################Start Features extraction and data preparation#####################################
-direc='/home/cuoco/workspace/git/bowl/data'
+direc='./data'
 #direc='/users/cuoco/home/workspace/git/bowl/data'
 # get the classnames from the directory structure
 directory_names = list(set(glob.glob(os.path.join(direc,"train", "*"))\
