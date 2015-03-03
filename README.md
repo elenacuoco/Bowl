@@ -18,3 +18,10 @@ Load the saved model and perform prediction, writing them in a file  for submiss
 
 
 You can use a json file to set the PATH and other parameters once for all.
+
+
+
+####Other useful repository links
+https://github.com/msegala/Kaggle-National_Data_Science_Bowl
+
+
