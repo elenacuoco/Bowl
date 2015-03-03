@@ -163,7 +163,7 @@ eval_size=0.2
 
 #-------------------------------------------###############
 ##Read configuration parameters
-file_dir = '/home/cuoco/workspace/git/bowl/settings-nb.json'
+file_dir = './settings-nb.json'
 config = json.loads(open(file_dir).read())
 train_file=config["HOME"]+config["TRAIN_DATA_PATH"]+'train.csv'
 
